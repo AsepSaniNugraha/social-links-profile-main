@@ -33,7 +33,7 @@ li{
     background-color: var(--color-grey-900);
 }
 .card{
-    width: max-content;
+    width: 285px;
     padding: 30px;
     display: flex;
     flex-direction: column;
